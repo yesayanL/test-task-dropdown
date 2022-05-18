@@ -4,7 +4,7 @@ Hi,
 
 We're happy to welcome you to the next stage of our hiring process — the home task.
 
-To keep consistency across all candidates' submissions, we kindly ask you to clone this repository and use it as a starting point. However, we would like you to feel free to customize it or use any other tool of your choice if you want, in that case, please provide us with a guide on how to build and run your solution.
+To keep consistency across all candidates' submissions, we kindly ask you to clone this repository and use it as a starting point. However, we would like you to feel free to customize it or use any other tool of your choice if you want. In that case, please provide us with a guide on how to build and run your solution.
 
 Please note, that you may be asked to add new features during the further interview session.
 
