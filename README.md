@@ -27,7 +27,7 @@ Implement the [ComboBox](https://en.wikipedia.org/wiki/Combo_box) component that
 - The component is free of bugs and works smoothly.
 - It looks nice (to your taste).
 - No library which contains ready-to-use form components is used. However, using any other utility you may find appropriate for the project is not limited.
-- The component's feature are showcased in Storybook.
+- The component's features are showcased in Storybook.
 - _(recommended)_ It is covered with tests.
 
 **Please, feel free to go beyond the requirements if you think it would be beneficial for UX/DX.**
