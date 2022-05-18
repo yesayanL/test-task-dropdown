@@ -34,6 +34,8 @@ Implement the [ComboBox](https://en.wikipedia.org/wiki/Combo_box) component that
 
 ## How to start
 
+**Make sure you have LTS version of Node and NPM installed on your machine.**
+
 After installing dependencies it's ready for development. Please, execute `npm start` to run the Storybook.
 
 You can find an empty `ComboBox` component and the corresponding story file in the `src/components/combo-box` directory.
