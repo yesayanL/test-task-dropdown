@@ -32,6 +32,13 @@ Implement the [ComboBox](https://en.wikipedia.org/wiki/Combo_box) component that
 
 **Please, feel free to go beyond the requirements if you think it would be beneficial for UX/DX.**
 
+### Reference
+We belive that [MUI](https://mui.com/material-ui/react-autocomplete/#combo-box) has a considerably good implementation of Combo Box.
+
+So we suggest you use it as an inspiration and point of reference.
+However, we kindly ask you not to copy/paste it's code rather learn and understand it's behaviour
+and try to bring the best of it to your own solution.
+
 ## How to start
 
 **Make sure you have LTS version of Node and NPM installed on your machine.**
